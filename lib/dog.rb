@@ -18,8 +18,8 @@ a = @@all.clear
 end 
 
 def self.print_all
-  @@all.each do |puppy_name|
-    puts Dog.puppy_name 
+  @@all.each do |puppy|
+    puts name
   end 
 end
 
