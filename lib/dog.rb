@@ -22,7 +22,7 @@ def self.print_all
     puts puppy.name 
   end 
 end
-
+ 
 def save 
     @@all<< self
   end
